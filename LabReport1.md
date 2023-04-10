@@ -1,8 +1,8 @@
-#Lab Report 1
+# Lab Report 1
 ---
 Hello! Today we are going to learn about how to log into a course-specific account on `ieng6`.
 In order to be able to do this, you need to follow these steps:
-#First,
+# First,
 **Installing Visual Studio Code**
 ---
 You need to install Visual Studio Code. 
