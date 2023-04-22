@@ -43,7 +43,8 @@ Here are some specific useful commands to try:
 * `cd`, changes directory to the `home directory`
 * `ls -lat`, list the files and folders in the path `-lat`
 * `ls -a`, list the files and folders in the path `-a`
-* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23abc`, where `abc` is one of the other group members' username., list the file and folder in `<directory>`
+* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23abc`, where `abc` is one of the other group members' username., 
+list the file and folder in `<directory>`
 
 Here is an example of running some commands.
 ![Image](Runningcodes.jpg)
