@@ -43,7 +43,7 @@ Here are some specific useful commands to try:
       - changes directory to `~`
 * `cd`   
       - changes directory to the `home directory`
-* `ls -lat`  
+* `ls -lat`
       - list the files and folders in the path `-lat`
 * `ls -a`
       - list the files and folders in the path `-a`
@@ -52,7 +52,7 @@ Here are some specific useful commands to try:
 
 Here is an example of running some commands.
 ![Image](Runningcodes.jpg)
-The screenshot shows the files and folders in the path `-lat` as `ls -lat` is typed, and shows the files and folders in the path `-a` as `ls -a` is typed. 
+The screenshot shows the files and folders in the path `-lat` as `ls -lat` is typed, and shows the files and folders in the path `-a` as `ls -a` is typed.
 ---
 ## YOU DID IT!!
 You successfully finished the task. In order to log out of the remote server in your terminal, you can use
