@@ -39,20 +39,15 @@ Follow the instructions on your terminal, say `yes` to the question, then type i
 You have successfully logged in! Now try running some commands.
 
 Here are some specific useful commands to try:
-* `cd ~` 
-      - changes directory to `~`
-* `cd`   
-      - changes directory to the `home directory`
-* `ls -lat`
-      - list the files and folders in the path `-lat`
-* `ls -a`
-      - list the files and folders in the path `-a`
-* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23abc`, where `abc` is one of the other group members' username.
-      - list the file and folder in `<directory>`
+* `cd ~`, changes directory to `~`
+* `cd`, changes directory to the `home directory`
+* `ls -lat`, list the files and folders in the path `-lat`
+* `ls -a`, list the files and folders in the path `-a`
+* `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lsp23abc`, where `abc` is one of the other group members' username., list the file and folder in `<directory>`
 
 Here is an example of running some commands.
+The screenshot shows the files and folders in the path `-lat` as `ls - lat` is typed, and shows the files and folders in the path `-a` as `ls -a` is typed.
 ![Image](Runningcodes.jpg)
-The screenshot shows the files and folders in the path `-lat` as `ls -lat` is typed, and shows the files and folders in the path `-a` as `ls -a` is typed.
 ---
 ## YOU DID IT!!
 You successfully finished the task. In order to log out of the remote server in your terminal, you can use
