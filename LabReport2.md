@@ -4,11 +4,13 @@
 ## Part 1
 My code for `StringServer`
 
-![Image](Code 1.jpg)
+![Image](Code1.jpg)
 
-![Image](Code 2.jpg)
+![Image](Code2.jpg)
 
-The output of my `StringServer`
+--- 
+
+The outputs of my `StringServer`
 
 ![Image](Hello.jpg)
 
