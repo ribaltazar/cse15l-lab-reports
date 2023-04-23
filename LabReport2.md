@@ -3,11 +3,15 @@
 
 ## Part 1
 My code for `StringServer`
-![Image](Code1.jpg)
-![Image](Code2.jpg)
+
+![Image](Code 1.jpg)
+
+![Image](Code 2.jpg)
 
 The output of my `StringServer`
+
 ![Image](Hello.jpg)
+
 For this output;
 
 *The method `handle` in the class `MyHandler` is being called.
