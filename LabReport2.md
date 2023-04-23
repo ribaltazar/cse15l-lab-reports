@@ -1,7 +1,7 @@
 # LAB REPORT 2
 ---
 
-## Part 1
+## PART 1
 My code for `StringServer`
 
 ![Image](Code1.jpg)
@@ -12,7 +12,7 @@ My code for `StringServer`
 
 The outputs of my `StringServer`
 
-![Image](Hello.jpg)
+![Image](Hello.jpeg)
 
 For this output;
 
@@ -43,6 +43,7 @@ For this output;
 ---
 
 ![Image](HowAreYou.jpg)
+
 For this output;
 
 *The method `handle` in the class `MyHandler` is being called.
@@ -70,3 +71,45 @@ For this output;
   -`response` = `hello \nhow are you?`
     -copied the value of `message` to  `response`
 
+---
+
+## PART 2
+
+A bug that I'm choosing from lab 3 is from the method `reverseInPlace()`.
+
+---
+
+A failure inducing input in `reverseInPlace()` is an array `int[] arr` that has more than one element.
+
+Example 1:
+
+```
+  int[] input1 = { 0, 1 };
+```
+
+Example 2:
+
+```
+  int[] input2 = {10, 20, 30, 40, 50};
+```
+
+---
+
+An input that doesn't induce a failure is an array `int[] arr` that only has one or no element.
+
+Example 1:
+
+```
+  int[] input3 = { 0 };
+```
+
+Example 2:
+
+```
+  int[] input4 = { };
+```
+
+---
+
+The symptom of this method is:
+![Image](
