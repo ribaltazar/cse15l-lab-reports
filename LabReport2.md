@@ -112,4 +112,38 @@ Example 2:
 ---
 
 The symptom of this method is:
-![Image](
+![Image](Symptoms.jpg)
+
+---
+
+The bug of this code if:
+
+BEFORE
+
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      int var = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+
+AFTER
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length / 2; i += 1) { //change `arr.length` to `arr.length / 2`
+      int var = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = var; //new line added
+    }
+  }
+```
+The problem is that `BEFORE` runs the for() loop for the entire array, which will re-reverse the elements in the array as it passes the second half of the array.
+The changed implemented in `AFTER` will make the code run correctly. By only running the for() loop by `arr.length / 2` times, it will only run for the half section of the array, avoiding it to re-reverse. The added line `arr[arr.length - i - 1] = var;` is for swapping the current element at index `i` with the corresponding element at the oppsite end of the array, which is `arr[arr.length - i - 1`).
+
+---
+
+## PART 3
+
+During Week 2 and Week 3, I've learned many concepts about Web Servers, and Debugging. I've learned new methods for URI's. I've also found out that making basic web servers is not as bad as it seems. It is possible with only knowing basic java language. I also learned the importance of debugging. It is really important to try to be as cautious as someone can in checking their code as there are bugs and failure-inducing input that can cause codes to not run and cause errors.
