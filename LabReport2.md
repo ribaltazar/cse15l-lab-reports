@@ -116,7 +116,7 @@ The symptom of this method is:
 
 ---
 
-The bug of this code if:
+The bug of this code is:
 
 BEFORE
 
