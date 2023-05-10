@@ -8,11 +8,15 @@
    This command helps in finding where a file is located.
 
   **Ex 1.**
+  
+![Image](find -name 1.jpg)
 
    This example shows how I was able to find the location of `pmed.0020278.txt`.
   
   **Ex 2.**
     
+![Image](find -name 2.jpg)
+   
    This examples shows how I was able to find the location of `biomed`.
   
 ---
