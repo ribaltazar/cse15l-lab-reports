@@ -9,13 +9,13 @@
 
   **Ex 1.**
   
-![Image](find -name 1.jpg)
+![Image](find-name1.jpg)
 
    This example shows how I was able to find the location of `pmed.0020278.txt`.
   
   **Ex 2.**
     
-![Image](find -name 2.jpg)
+![Image](find-name2.jpg)
    
    This examples shows how I was able to find the location of `biomed`.
   
@@ -27,9 +27,13 @@
 
  **Ex 1.**
 
+![Image](findiname1.jpg)
+
    This example shows that though I typed `*Pmed*` as my file name input, it showed every file that contains `pmed` in its file name.
 
  **Ex 2.**
+
+![Image](findiname2.jpg)
 
    Just like example 1, though I typed `*JOURNAL*` as my file name input, it showed every file that contains `journal` in its file name. 
 
@@ -41,9 +45,14 @@
 
  **Ex. 1**
 
+![Image](findtype1.jpg)
+
    This example shows that by using the letter `d` which stands for directory, it displays every possible directory inside `.\technical`.
 
  **Ex .2**
+
+![Image](findtype2.1.jpg)
+![Image](findtype2.2.jpg)
 
    This example shows that by using the letter `f` which stands for files, it displays every file inside `.\technical`.
 
@@ -54,8 +63,12 @@
   
  **Ex 1.**
 
+![Image](findempty1.jpg)
+
    This example shows every empty file in `./technical`. Since every file has something in it, the output is nothing.
   
  **Ex 2.**
-  
+ 
+ ![Image](findempty2.jpg)
+ 
    This example shows if Server.java is empty. Since it is not empty, the output is nothing.
