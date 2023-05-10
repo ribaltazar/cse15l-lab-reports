@@ -43,13 +43,13 @@
 
    This command helps display a sort of any type inside a directory. This is useful if a user wants to see the elements inside their directory.
 
- **Ex. 1**
+ **Ex 1.**
 
 ![Image](findtype1.jpg)
 
    This example shows that by using the letter `d` which stands for directory, it displays every possible directory inside `.\technical`.
 
- **Ex .2**
+ **Ex 2.**
 
 ![Image](findtype2.1.jpg)
 ![Image](findtype2.2.jpg)
