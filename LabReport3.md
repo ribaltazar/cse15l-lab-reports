@@ -72,3 +72,5 @@
  ![Image](findempty2.jpg)
  
    This example shows if Server.java is empty. Since it is not empty, the output is nothing.
+
+All of this **find** command-options are found in [Link](https://www.redhat.com/sysadmin/linux-find-command).
