@@ -4,7 +4,7 @@
 
 ## Step 4 (Log into ieng6)
 
-![Image](Step 4.jpg)
+![Image](Step4.jpg)
 
 Keys pressed:
 
@@ -16,7 +16,7 @@ I opened a new terminal and logged into my ieng6 account.
   
 ## Step 5 (Clone your fork of the repository from you Github account)
 
-![Image](Step 5.jpg)
+![Image](Step5.jpg)
 
 Keys pressed:
 
@@ -28,7 +28,7 @@ I cloned the repositor by using the command `git clone`. It says that lab7 alrea
 
 ## Step 6 (Run the tests demonstrating that they fail)
 
-![Image](Step 6.jpg)
+![Image](Step6.jpg)
 
 Keys pressed:
 
@@ -40,7 +40,7 @@ I tried compiling and executing the files but it produced an error on `testMerge
 
 ## Step 7  (Edit the code file to fix the failing test)
 
-![Image](Step 7.jpg)
+![Image](Step7.jpg)
 
 Keys pressed:
 
@@ -49,7 +49,7 @@ Keys pressed:
 <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*j*>, <*l*>, <*l*>, <*l*>,  <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*l*>, <*i*>, 
 <*clear*>, <*2*>, <*esc*>
 
-<*:*>, *wq*
+<*:*>, *wq* <*enter*>
 
 I edited ListExamples.java using vim to fix the error. The error was to change `index1` to `index2` in `result.add(list2.get(index2))`.
 
@@ -57,7 +57,7 @@ I edited ListExamples.java using vim to fix the error. The error was to change `
 
 ## Step 8 (Run the tests, demonstrating that they now succeed)
 
-![Image](Step 8.jpg)
+![Image](Step8.jpg)
 
 Keys pressed:
 
@@ -69,8 +69,8 @@ Keys pressed:
 
 ## Step 9 (Commit and push the resulting change to your Github account)
 
-![Images](Step 9.1.jpg)
-![Images](Step 9.2.jpg)
+![Images](Step9.1.jpg)
+![Images](Step9.2.jpg)
 
 Keys pressed:
 
