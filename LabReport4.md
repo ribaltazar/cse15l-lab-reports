@@ -16,13 +16,13 @@ I opened a new terminal and logged into my ieng6 account.
   
 ## Step 5 (Clone your fork of the repository from you Github account)
 
-![Image](Step5.jpg)
+![Image](Step5clone.jpg)
 
 Keys pressed:
 
 *git clone https://github.com/ucsd-cse15l-s23/lab7*, <*enter*>.
 
-I cloned the repositor by using the command `git clone`. It says that lab7 already exist since I alread cloned it beforehand.
+I cloned the repository by using the command `git clone`. It says that lab7 already exist since I already cloned it beforehand.
 
 ---
 
