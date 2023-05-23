@@ -14,7 +14,7 @@ I opened a new terminal and logged into my ieng6 account.
   
 ---
   
-## Step 5 (Clone your fork of the repository from you Github account)
+## Step 5 (Clone your fork of the repository from your Github account)
 
 ![Image](Step5clone.jpg)
 
