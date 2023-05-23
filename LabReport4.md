@@ -20,7 +20,7 @@ I opened a new terminal and logged into my ieng6 account.
 
 Keys pressed:
 
-*git clone https://github.com/ucsd-cse15l-s23/lab7*, <*enter*>.
+*git clone https://github.com/ribaltazar/lab7*, <*enter*>.
 
 I cloned the repository by using the command `git clone`. It says that lab7 already exist since I already cloned it beforehand.
 
