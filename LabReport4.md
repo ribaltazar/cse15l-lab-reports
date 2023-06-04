@@ -51,7 +51,7 @@ Keys pressed:
 
 <*:*>, *wq* <*enter*>
 
-I edited ListExamples.java using vim to fix the error. The error was to change `index1` to `index2` in `result.add(list2.get(index2))`.
+I edited ListExamples.java using vim to fix the error. The error was to change `index1` to `index2` in `result.add(list2.get(index2))`. I used the keys `j` and `l` to move the cursor to the line I want to change.
 
 ---
 
