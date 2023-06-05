@@ -18,16 +18,16 @@
 Instead of getting `Passed` on the all the testers, I'm getting `Failed` 
 on two of them
 
-![Image]Terminal.jpg
+![Image](Terminal.jpg)
 
 *Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
 - I have been compiling them with `javac` and executing with `java`. It runs well, it just
 doesn't give me the expected output.
 
-![Image]copyArray.jpg
+![Image](copyArray.jpg)
 
-![Image]copyArrayTests.jpg
+![Image](copyArrayTests.jpg)
 
 ---
 
@@ -45,10 +45,15 @@ Thanks!! I doubled checked and I saw that instead of using `>`, I've used `<`. N
 
 ## Information
 `file/s` - `copyArray`, `copyArrayTest`
+
 `directory` - `CSE15l` folder
-`screenshot` - ![Image]corrected.jpg
+
+`screenshot` - ![Image](corrected.jpg)
+
 `bug` - the student used the sign less than `<` instead of greater than `>`, which causes a major error in his outputs.
-`what to edit` - the student needed to edit `line 9` of `copyArray`. Change `<` to `>`.
+
+`what to edit` - the student needed to edit `line 9` of `copyArray`. Change `<` to 
+`>`.
 
 ---
 
