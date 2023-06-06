@@ -20,7 +20,7 @@ on two of them
 
 ![Image](Terminal.jpg)
 
-*Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
+*Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.*
 
 - I have been compiling them with `javac` and executing with `java`. It runs well, it just
 doesn't give me the expected output.
@@ -39,7 +39,7 @@ Hi Student, Thanks for detailing. I see that your testers are coded correctly, b
 
 ## Student response
 
-Thanks!! I doubled checked and I saw that instead of using `>`, I've used `<`. Now it runs well.
+Thanks!! I double checked and I saw that instead of using `>`, I've used `<`. Now it runs well.
 
 ---
 
